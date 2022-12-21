@@ -1,5 +1,5 @@
 - 🔭 Atuamente sou um estudante.
-- 🤖 Estou estudando assuntos como Back-End e Machine Learning, que são as áreas que pretendo atuar.
+- 🤖 Estou estudando assuntos como Data Science, Machine Learning e DEVOPS, que são as áreas que pretendo atuar.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samuel-wolfgang-ba47811b7/">
