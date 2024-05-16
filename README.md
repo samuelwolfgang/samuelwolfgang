@@ -9,7 +9,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Unopar e atualmente e
 Meus principais Hobbs são: jogar Dark Souls (e RPG no geral), filosofar com meus amigos, Basquete e Música (escutar/tocar).
   
 <div align="center"> 
-  <img src="https://c.tenor.com/A8lPgA2FJC0AAAAC/tenor.gif">
+  <img src="https://c.tenor.com/CgGUXc-LDc4AAAAC/tenor.gif" alt="HACKER MAN!!">
 </div>
 
 </td></tr>
