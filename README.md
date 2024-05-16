@@ -6,10 +6,11 @@
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela Unopar e atualmente estou cursando Master of Business Administration (MBA) em Segurança da Informação pela Descomplica Faculdade Digital.
 
-Meus principais Hobbs são: jogar Dark Souls (e RPG no geral), filosofar com meus amigos, Basquete e Música (escutar/tocar). ⚔️👨🏾‍💻
+Meus principais Hobbs são: jogar Dark Souls (e RPG no geral), filosofar com meus amigos, Basquete e Música (escutar/tocar).
   
 <div align="center"> 
   <img src="https://media.tenor.com/tqoX4Da8YmwAAAAC/doggo-dog.gif" alt="Gif de um cachorrinho de gravata mexendo no computador">
+  <div class="tenor-gif-embed" data-postid="26093280" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/linux-yeah-i-use-linux-gigachad-chad-arch-linux-gif-26093280">Linux Yeah I Use Linux GIF</a>from <a href="https://tenor.com/search/linux-gifs">Linux GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 </td></tr>
